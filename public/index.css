@@ -79,4 +79,12 @@ body{
 }
 
 
-
+.header{
+    display: flex;
+    margin: 2px;
+    align-items: center;
+    background-color: #eee674;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 20px;
+}
