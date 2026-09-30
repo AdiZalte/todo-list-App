@@ -24,10 +24,6 @@ const testCases = [
     {
         name: 'JavaScript file exists',
         file: 'public/todo.js'
-    },
-     {
-        name: 'Intentional failure test',
-        file: 'public/file-that-does-not-exist.html'
     }
 ];
 
